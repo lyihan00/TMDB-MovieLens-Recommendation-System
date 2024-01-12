@@ -13,8 +13,11 @@ Utilising The Movie Database (TMDb) and the MovieLens 20M dataset, we merged ove
 
 ## Key Achievements and Highlights
 ● _Integration of Advanced Models_: We successfully adapted and implemented state-of-the-art models such as BERT and ERNIE, as well as NGCF and LightGCN, demonstrating our capability to harness cutting-edge AI technologies.
+
 ● _Innovative Feature Engineering_: Our team developed unique features like Genre Affinity Scores and sentiment analysis using TextBlob and VADER libraries, enhancing the system's ability to understand and predict user preferences.
+
 ● _Efficiency Optimization_: By employing techniques like PCA and t-SNE for dimensionality reduction and leveraging CUDA for accelerated model training, we significantly improved the computational efficiency of our models.
+
 ● _Hybrid Recommendation Approach_: We integrated a content-collaborative hybrid model, LightFM, addressing the prevalent cold-start problem in recommendation systems and explored enhancing the interpretability of prediction scores.
 
 
